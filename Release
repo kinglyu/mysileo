@@ -1,0 +1,9 @@
+Origin: SmallBoss
+Label: SmallBoss
+Suite: stable
+Version: 1.1.0
+Codename: SmallBoss
+Architectures: iphoneos-arm64
+Components: main
+Description: Ysl  
+
