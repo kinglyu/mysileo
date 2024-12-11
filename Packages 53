@@ -1,0 +1,32 @@
+Package: com.reverse.tiktoksslpinning
+Version: 1.0.5-1+debug
+Architecture: iphoneos-arm64
+Maintainer: reverse
+Installed-Size: 156
+Depends: ElleKit (>= 1.1.2)
+Filename: ./debs/com.reverse.tiktoksslpinning_1.0.5-1+debug_iphoneos-arm64.deb
+Size: 5624
+MD5sum: 011c9e1f89b5c616455385a61086eb89
+SHA1: e8a5e02f8500cc2543b5ccd32c579686348f5c7e
+SHA256: 2aed389b276703383e8557ed780993501cf8248d9adf50dd0b8ce02ed64ad728
+Section: Tweaks
+Description: bypass sslpining
+Author: reverse
+Name: tiktoksslpinning
+
+Package: com.reverse.ysl
+Version: 1.3.19-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: reverse
+Installed-Size: 4344
+Filename: ./debs/com.reverse.ysl_1.3.19-1+debug_iphoneos-arm64e.deb
+Size: 772106
+MD5sum: 3c298a421820c98375ca40854b9037bc
+SHA1: c17d09c47e1fda54d2be36433a58c7fa69d190bb
+SHA256: 6a3577ce310cc6c2675d5bf1dc3f5efa4d2a93e5f97a63d9f3a0762a46192ee9
+Section: System
+Description: ysl
+Tag: role::hacker
+Author: reverse
+Name: ysl
+
