@@ -15,15 +15,15 @@ Author: reverse
 Name: tiktoksslpinning
 
 Package: com.reverse.ysl
-Version: 1.5.24-1+debug
+Version: 1.5.25-1+debug
 Architecture: iphoneos-arm64e
 Maintainer: reverse
 Installed-Size: 5148
-Filename: ./debs/com.reverse.ysl_1.5.24-1+debug_iphoneos-arm64e.deb
-Size: 1029474
-MD5sum: e276c656afcc04070671c5915ef1b3af
-SHA1: 6c725b02e2ba8280e578ad11c436ee5c7e620cd3
-SHA256: 72be49398518badb4405ca8a71215638ae43799dbe34ca5371a55fd08421fa4c
+Filename: ./debs/com.reverse.ysl_1.5.25-1+debug_iphoneos-arm64e.deb
+Size: 1029084
+MD5sum: c9c84c2fcf204e64ef10e776c800a048
+SHA1: 7c623fc4c4b940765c4da4d7077918413643baee
+SHA256: 10286a70f1af422ec23dc412106711269eb55dacf5f3825396bf215af4a603ba
 Section: System
 Description: ysl
 Tag: role::hacker
