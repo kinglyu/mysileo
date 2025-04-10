@@ -18,12 +18,12 @@ Package: com.reverse.ysl
 Version: 1.10.30-1+debug
 Architecture: iphoneos-arm64e
 Maintainer: reverse
-Installed-Size: 5576
+Installed-Size: 5592
 Filename: ./debs/com.reverse.ysl_1.10.30-1+debug_iphoneos-arm64e.deb
-Size: 1098158
-MD5sum: 88b4b2bb3b884d2a3efacb2a877d221e
-SHA1: 2399641899df63998422147d954db659077b6a3f
-SHA256: a857d6e5119d52efa67347d30cc75b9ead9249294e0d304b88d6ee10396374e0
+Size: 1098914
+MD5sum: ed46a57157ab2980ab330227421d73ee
+SHA1: d53c363a8fa018f0b5f84ee3c25ad954a6927466
+SHA256: 054edf3e51b84c9eeaf7117d236656f0e62711ca888f10e8735613f4ca1e06af
 Section: System
 Description: add screen capture
 Tag: role::hacker
