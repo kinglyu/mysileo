@@ -18,14 +18,14 @@ Package: com.reverse.ysl
 Version: 1.10.47-1+debug
 Architecture: iphoneos-arm64e
 Maintainer: reverse
-Installed-Size: 5888
+Installed-Size: 5892
 Filename: ./debs/com.reverse.ysl_1.10.47-1+debug_iphoneos-arm64e.deb
-Size: 1179498
-MD5sum: 52ccbcf80b35eb06323dbd2d06d83800
-SHA1: 0c237d075f5d31f83893e4d9739c4cc92d767090
-SHA256: d3334ffe81ae1f937819d1bdf60b084f8b1bca00e5482b79affc0fe45d751aeb
+Size: 1179526
+MD5sum: 91d57258a6a2d602cae2bda421d690f1
+SHA1: 5925b8c4db4305f47854fae752e8dc0b927d7a34
+SHA256: c29c16c268c9404647432daa2f7aac527a63698bae4b3576db090d3fd126d6d1
 Section: System
-Description: register udp brod
+Description: register udp multi brod
 Tag: role::hacker
 Author: reverse
 Name: ysl
