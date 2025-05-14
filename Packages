@@ -1,15 +1,31 @@
+Package: com.reverse.tiktoksslpinning
+Version: 1.0.5-1+debug
+Architecture: iphoneos-arm64
+Maintainer: reverse
+Installed-Size: 156
+Depends: ElleKit (>= 1.1.2)
+Filename: ./debs/com.reverse.tiktoksslpinning_1.0.5-1+debug_iphoneos-arm64.deb
+Size: 5624
+MD5sum: 011c9e1f89b5c616455385a61086eb89
+SHA1: e8a5e02f8500cc2543b5ccd32c579686348f5c7e
+SHA256: 2aed389b276703383e8557ed780993501cf8248d9adf50dd0b8ce02ed64ad728
+Section: Tweaks
+Description: bypass sslpining
+Author: reverse
+Name: tiktoksslpinning
+
 Package: com.reverse.ysl
 Version: 1.10.47-1+debug
 Architecture: iphoneos-arm64e
 Maintainer: reverse
 Installed-Size: 5888
 Filename: ./debs/com.reverse.ysl_1.10.47-1+debug_iphoneos-arm64e.deb
-Size: 1179028
-MD5sum: 22179d031e50143eb7ed32122d6a4934
-SHA1: 627eeb4a339c7b00d23d79c39c6a81025817a837
-SHA256: e35ed82b84b80a6e8e431cba88ed34829da4971e86729bd50f5077d7f0010319
+Size: 1179372
+MD5sum: 559437ce7d0133d09b1c467107875686
+SHA1: fb5a76372aa14d32bc5eb807357fd55232bd7942
+SHA256: 08f9bdc25a5f321467e64adafe777ad842f88e3972a4301431bdfd235e8d5710
 Section: System
-Description: register ocr support
+Description: register udp
 Tag: role::hacker
 Author: reverse
 Name: ysl
