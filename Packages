@@ -20,12 +20,12 @@ Architecture: iphoneos-arm64e
 Maintainer: reverse
 Installed-Size: 5896
 Filename: ./debs/com.reverse.ysl_1.11.5-1+debug_iphoneos-arm64e.deb
-Size: 1180330
-MD5sum: dc659bb4f2f7cda66522198633df9898
-SHA1: 0172c441b9cf074ed8635130ff3d367347b744da
-SHA256: 7e55997cb3d9e98e0ce04d4d6972ef6fb1be6dc34e8568b17450a0deea990d06
+Size: 1180036
+MD5sum: 26de1bfd87ee82527e95395aed7f19bf
+SHA1: 1c6b02d7282578ead3e6cef527b7ed0a0ab3d00c
+SHA256: 661e0e711a1df1f2dbfd05cb5a9917a0544a719cbaeb9189b2d9cff8505e17e8
 Section: System
-Description: register sbcore 39.7.0
+Description: register no delay 39.7.0
 Tag: role::hacker
 Author: reverse
 Name: ysl
