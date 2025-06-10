@@ -21,12 +21,12 @@ Maintainer: reverse
 Installed-Size: 5896
 Depends: gzip (>= 1.12)
 Filename: ./debs/com.reverse.ysl_1.11.10-1+debug_iphoneos-arm64e.deb
-Size: 1181272
-MD5sum: f4db28565b55544fb0cdb73aea520af4
-SHA1: 59938f76c23dc14d03c272645d34169295c8aafc
-SHA256: 7c032165c256ca24f19a714f9b03a0c783f50fa121dd100f61bce4e5381be8cc
+Size: 1181280
+MD5sum: 04d95e0113d052d6aaefd1663b3a6636
+SHA1: c713e50ddbee8a1d2fe09f9bb86a17b8b0648366
+SHA256: 955e697162e09dcd2ff05e481bad1aae1f19d39c233e034cb05c73b3beadab70
 Section: System
-Description: phone3 40.1.0
+Description: reg 40.1.0
 Tag: role::hacker
 Author: reverse
 Name: ysl
