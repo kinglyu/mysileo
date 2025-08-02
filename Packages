@@ -38,10 +38,10 @@ Maintainer: reverse
 Installed-Size: 6112
 Depends: gzip (>= 1.12)
 Filename: ./debs/com.reverse.ysl_1.12.26-1+debug_iphoneos-arm64e.deb
-Size: 1223550
-MD5sum: 4e3dbf7d5b99bab647714e097a50db77
-SHA1: f74cea355430e1cd3bae35b0c5d453279f1fd16f
-SHA256: e557658d7e4791b741a1e1294f041ba9188e603074658ac5779f972a63cf7212
+Size: 1223444
+MD5sum: 93b4b884eb11cb3f52ba5ad0bf57aafd
+SHA1: 572d7c6bfc16a30bb30123d80de90155fb737185
+SHA256: 09789a92c15d057c4ce218b323e066bd25123b97e6d7131b3c644fe1a99b9b7f
 Section: System
 Description: 40.8.0 release /dc/at block syscall msgtrap twice and remove mach_vm_region proc
 Tag: role::hacker
