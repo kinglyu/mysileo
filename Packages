@@ -32,18 +32,18 @@ Author: reverse
 Name: ysl
 
 Package: com.reverse.ysl
-Version: 1.12.26-1+debug
+Version: 1.12.27-1
 Architecture: iphoneos-arm64e
 Maintainer: reverse
-Installed-Size: 6112
+Installed-Size: 3120
 Depends: gzip (>= 1.12)
-Filename: ./debs/com.reverse.ysl_1.12.26-1+debug_iphoneos-arm64e.deb
-Size: 1223444
-MD5sum: 93b4b884eb11cb3f52ba5ad0bf57aafd
-SHA1: 572d7c6bfc16a30bb30123d80de90155fb737185
-SHA256: 09789a92c15d057c4ce218b323e066bd25123b97e6d7131b3c644fe1a99b9b7f
+Filename: ./debs/com.reverse.ysl_1.12.27-1_iphoneos-arm64e.deb
+Size: 668596
+MD5sum: 014ee02f0d47f5ec854848f0fdf0c6bd
+SHA1: f7ce534e2ccaeb4d1fa7b80a7afc77cada0149ea
+SHA256: eb4e5ddbad4ee7092eda0c0a12fc416324a738b348998e1e259ceb560f598ed0
 Section: System
-Description: 40.8.0 release /dc/at block syscall msgtrap twice and remove mach_vm_region proc
+Description: 40.8.0 release /dc/at block syscall msgtrap twice and id60 proceed
 Tag: role::hacker
 Author: reverse
 Name: ysl
