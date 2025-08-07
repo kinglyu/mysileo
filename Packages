@@ -32,16 +32,16 @@ Author: reverse
 Name: ysl
 
 Package: com.reverse.ysl
-Version: 1.12.29-1
+Version: 1.12.30-1
 Architecture: iphoneos-arm64e
 Maintainer: reverse
 Installed-Size: 3152
 Depends: gzip (>= 1.12)
-Filename: ./debs/com.reverse.ysl_1.12.29-1_iphoneos-arm64e.deb
-Size: 670918
-MD5sum: 4076ce463d564240dd00e5b5c9852f27
-SHA1: 066fb44a28dd256dbb831a7d782564d9a0ee4045
-SHA256: f15fd7818c93c2aa4daa9b4ea65ba35187526560fc9459f2f18e5fa40fe9525c
+Filename: ./debs/com.reverse.ysl_1.12.30-1_iphoneos-arm64e.deb
+Size: 671678
+MD5sum: 18397f8417ed7de623df65180908b58c
+SHA1: 40aebdd850ed7a65c9617620194d83f6f2f2f8ff
+SHA256: 14b03d0f36037920e5eceb7b4f838f3487ac7c5853ee76f5e443e5afe6c50f2f
 Section: System
 Description: 40.9.0 release /dc/at block 16.0 os mach_msg2_trap process
 Tag: role::hacker
