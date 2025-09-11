@@ -38,10 +38,10 @@ Maintainer: reverse
 Installed-Size: 3220
 Depends: gzip (>= 1.12)
 Filename: ./debs/com.reverse.ysl_1.14.18-1_iphoneos-arm64e.deb
-Size: 695234
-MD5sum: c5aa6de908131eb58f96b98023a3e81c
-SHA1: 2cd612bbec6983bffcde11744cc24b4668aae8fe
-SHA256: c0e29ffe14e8cc15e3b74b39e7e52d7c56fb67ffb3c3e0d7146877520a895241
+Size: 695196
+MD5sum: 9d202518418799db5fae0cc3fc6f53b6
+SHA1: 46e884716ffe8d6ae8f4b751c9f6c3bc5b36ae7f
+SHA256: 77a876e31a376d038b4958e8a655f0b74a3e02d8bea63e1f92dea76964af7dd5
 Section: System
 Description: 41.6.0 release recover captcha support
 Tag: role::hacker
