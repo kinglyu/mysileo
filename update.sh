@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/Desktop/Project/code/mysileo
+cd ~/code/mysileo
 rm Packages Packages.bz2 Packages.gz
 
 dpkg-scanpackages -m . > Packages
