@@ -38,10 +38,10 @@ Maintainer: reverse
 Installed-Size: 3340
 Depends: gzip (>= 1.12)
 Filename: ./debs/com.reverse.ysl_1.14.52-1_iphoneos-arm64e.deb
-Size: 718668
-MD5sum: 3a77850b56c3d28fd9895b523057ec1e
-SHA1: 95319653283235d659f16716df8ae878c5caf568
-SHA256: 66e1a3639fb31c78b865c9d3f821d83146caabce2f8759e05665500dadee8152
+Size: 718722
+MD5sum: afc2ddf1bef9a29da25704f7a3bc19d5
+SHA1: c220057b91a8d544bad7ff97d75753e09d78da7c
+SHA256: 7b77ec853a9db0cc083a596186bf0056cc1b94d2de2dc7fba1a53e5c7f10d3d5
 Section: System
 Description: 41.9.0 release only crc hook
 Tag: role::hacker
