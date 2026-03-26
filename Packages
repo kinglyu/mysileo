@@ -32,16 +32,16 @@ Author: reverse
 Name: ysl
 
 Package: com.reverse.ysl
-Version: 1.18.2-1
+Version: 1.18.3-1
 Architecture: iphoneos-arm64e
 Maintainer: reverse
 Installed-Size: 3428
 Depends: gzip (>= 1.12)
-Filename: ./debs/com.reverse.ysl_1.18.2-1_iphoneos-arm64e.deb
-Size: 732024
-MD5sum: 9b5933fc48ed476d54ac168ceecdf4bb
-SHA1: d936ac85284cb532b4532d5a8d0058f1c768c3a3
-SHA256: 4ab9c5baa211bcd1b9875a3099ca42b79b2811a0184bab322bb6dcec645e3e14
+Filename: ./debs/com.reverse.ysl_1.18.3-1_iphoneos-arm64e.deb
+Size: 731774
+MD5sum: 9df3bab908deaa4c41994fc9b72935cb
+SHA1: a8e1950b682eb0d75dcf2b8beacbfcebcdec6d08
+SHA256: 9b90dbb9bc0bf477c50ae39a3160de0132b66cf1eb7349ec55bbbaae30f89a26
 Section: System
 Description: 44.4.0 release
 Tag: role::hacker
