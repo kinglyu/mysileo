@@ -38,10 +38,10 @@ Maintainer: reverse
 Installed-Size: 7388
 Depends: gzip (>= 1.12)
 Filename: ./debs/com.reverse.ysl_1.28.10-1+debug_iphoneos-arm64e.deb
-Size: 1863462
-MD5sum: 937a0bb1bce0cdb3fccbdf21ec50a68b
-SHA1: 19a309e34373cea214f2eecaa241c65d2d22707c
-SHA256: 5fa924b7ba8567acf91f0cf4fb97cd27829ffb4b4b3b004462469d9c86535419
+Size: 1864342
+MD5sum: 74cc6a46c54dec4b7cf27efc1703fb90
+SHA1: f813db17624eadd938ba51c50ade6b5e368504b3
+SHA256: b554de5518848115a67f67cfbf20d3a04fddb2bf5f9b154fb35aa48a29b4afc3
 Section: System
 Description: 47.8.0  tiktok pro as
 Tag: role::hacker
