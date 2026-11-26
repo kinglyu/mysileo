@@ -32,18 +32,18 @@ Author: reverse
 Name: ysl
 
 Package: com.reverse.ysl
-Version: 1.28.15-1+debug
+Version: 1.28.16-1+debug
 Architecture: iphoneos-arm64e
 Maintainer: reverse
 Installed-Size: 7420
 Depends: gzip (>= 1.12)
-Filename: ./debs/com.reverse.ysl_1.28.15-1+debug_iphoneos-arm64e.deb
-Size: 1891374
-MD5sum: 53cc93a3a437b1ea044850bfead6086b
-SHA1: 9893bb1f4af4b2ec003e1e43f95d1dfc46ae8921
-SHA256: 928afc50a7b264035d9dbc813e3f1df59a414be9ce9f6b9e48389a812f1c9fc1
+Filename: ./debs/com.reverse.ysl_1.28.16-1+debug_iphoneos-arm64e.deb
+Size: 1891188
+MD5sum: d5010120100a276b82fe7c4982a6dd6e
+SHA1: a22427bd2255c9818ac9f0cd5f0d99952dd20bf2
+SHA256: 9d6b063d118b72ec7b02fd2c3ca70bf5e57e5860f9573cfa1a731f88570bed81
 Section: System
-Description: 47.9.0  tiktok us
+Description: 47.9.0  tiktok us as
 Tag: role::hacker
 Author: reverse
 Name: ysl
